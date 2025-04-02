@@ -5,4 +5,7 @@
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
     <fullyQualifiedTypeName name="com.infosys.expenseManagementApplication.bean.ExpenseUser"/>
     <fullyQualifiedTypeName name="com.infosys.expenseManagementApplication.service.ExpenseUserService"/>
+    <fullyQualifiedTypeName name="com.infosys.expenseManagementApplication.dao.CategoryDao"/>
+    <fullyQualifiedTypeName name="com.infosys.expenseManagementApplication.bean.Expense"/>
+    <fullyQualifiedTypeName name="com.infosys.expenseManagementApplication.bean.Customer"/>
 </qualifiedTypeNameHistroy>
