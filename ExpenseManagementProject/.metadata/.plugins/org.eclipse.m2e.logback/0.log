@@ -3686,3 +3686,4 @@ java.io.FileNotFoundException: D:\ISB internship\ExpenseManagement\ExpenseManage
 2025-04-07 21:36:25,659 [Worker-53: Launching expenseManagementApplication] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\mahaj\.p2\pool\plugins\com.google.guava.failureaccess_1.0.2.jar
 2025-04-07 21:36:25,661 [Worker-53: Launching expenseManagementApplication] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "D:\ISB internship\ExpenseManagement\ExpenseManagementProject\expenseManagementApplication":
 2025-04-07 21:36:25,664 [Worker-53: Launching expenseManagementApplication] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always clean install
+2025-04-08 19:51:33,538 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
